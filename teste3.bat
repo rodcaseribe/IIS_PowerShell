@@ -1,0 +1,1 @@
+powershell.exe -command C:\teste3.ps1

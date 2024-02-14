@@ -1,0 +1,1 @@
+powershell.exe -command C:\block_dmp.ps1

@@ -1,0 +1,1 @@
+Get-SmbOpenFile | Where-Object -Property ShareRelativePath -Match ".dmp" > C:\inetpub\wwwroot\logsminidump.txt

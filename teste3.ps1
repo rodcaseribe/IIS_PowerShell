@@ -1,0 +1,1 @@
+(Get-NetFirewallRule -DisplayName "Área de Transferência de Pilha WinSock" | Get-NetFirewallAddressFilter).RemoteAddress > C:\inetpub\wwwroot\ips_bloqueados.txt
