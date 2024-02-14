@@ -1,2 +1,2 @@
 # IIS_PowerShell
- scripts do powershell com visualição no IIS
+ scripts do powershell com visualização no IIS
